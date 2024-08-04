@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernando_szl/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](linkedin.com/in/fernando-oenning-martins-170644307)
+)](https://www.linkedin.com/in/fernando-oenning-martins-170644307/)
 
 ![Fernandoo12 GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernandoo12&show_icons=true&theme=tokyonight)
 
